@@ -2,6 +2,8 @@
 
 The Sales Analysis Dashboard offers a detailed overview of the company’s sales performance across various dimensions. It provides insights into which products generate the most profit, sales trends across customer segments, and performance by region. By examining monthly trends, revenue contributions, and geographic profitability, the dashboard highlights growth opportunities and areas that require strategic adjustments. This data-driven tool empowers decision-makers to make informed choices, ensuring the company targets the right markets with the right products at the right time, ultimately driving profitability and staying competitive.
 
+project link(https://app.powerbi.com/links/Mg072T7ntD?ctid=36e917dc-1abe-43f4-b189-f92196a6b4ad&pbi_source=linkShare)
+
 
 # Detailed component Breakdown
 ## Profit Per Product
